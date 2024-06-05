@@ -12,7 +12,7 @@ dependencies = [
   "transformers==4.33.3",
 ]
 
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 
 authors = [
   {name = "Mononito Goswami", email = "mononitog@hotmail.com"},
